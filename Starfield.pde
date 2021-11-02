@@ -45,6 +45,9 @@ class Particle {
   }
 }
 
-class OddballParticle{
+class OddballParticle extends Particle{
+  OddballParticle(){
+   
+  }
   
 }
